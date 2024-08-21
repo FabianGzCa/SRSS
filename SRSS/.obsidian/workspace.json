@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit/Bandit 0/Bandit 0.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bandit/Bandit 0/Bandit 0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bandit/Bandit 0/Bandit 0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bandit/Bandit 0/Bandit 0.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "86d097ebd6f994d1",
   "lastOpenFiles": [
-    "Bandit/Bandit 0/Imágenes/Contraseña.png",
+    "Bienvenido a SRSS.md",
+    "README.md",
     "Bandit/Bandit 0/Bandit 0.md",
+    "Bandit/Bandit 0/Imágenes/Contraseña.png",
     "Bandit/Bandit 0/Imágenes/Conectado.png",
     "Bandit/Bandit 0/Imágenes/AceptarSSH.png",
     "Bandit/Bandit 0/Imágenes/AceptarSSH.png",
@@ -162,7 +164,6 @@
     "Bandit/Bandit 0/Imágenes",
     "Bandit/Bandit 0",
     "Bandit/Bandit.md",
-    "Bienvenido a SRSS.md",
     "Bandit",
     "\"texto\".md"
   ]
