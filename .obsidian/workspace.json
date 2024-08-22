@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "6eb0ae5d92e9f547",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b35b247a9c8741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6864390c49bfa5ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit/Bandit 0/Bandit 0.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c86e0f5eb5f5ba66",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b9eb230d28b2d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb6e5d72d9b3f1fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1043689556b8afb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcbd4d2ae8a443b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55ea41be4ef5eb32",
+    "type": "split",
+    "children": [
+      {
+        "id": "e59f72cbd7316bfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fc8e802613e6b80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bandit/Bandit 0/Bandit 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63eb79d6e582fd9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bandit/Bandit 0/Bandit 0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd3c141635bb0b2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d17fe9602b45661",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bandit/Bandit 0/Bandit 0.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6864390c49bfa5ba",
+  "lastOpenFiles": [
+    "Bandit/Bandit.md",
+    "Bienvenido a SRSS.md"
+  ]
+}
