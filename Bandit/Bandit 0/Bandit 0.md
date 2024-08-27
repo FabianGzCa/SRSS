@@ -55,15 +55,11 @@ En el material de ayuda podemos consultar más acerca de SSH, [el primer link](h
 
 * Solución
 
-![Aceptar SSH](./Imágenes/AceptarSSH.png)
-
 En una sección podemos observar que podemos utilizar SSH en Linux, macOS y versiones posteriores a Windows 10 versión 1709.
 
 En [el segundo link](https://www.wikihow.com/Use-SSH) inicia explicandonos en los pasos 1 y 2 como instalar Cygwin Terminal en el cual podremos utilizar ssh.
 
 Una vez instalado en el paso 3 nos explica como conectarnos:
-
-una
 
 el comando usado es ssh \<username>@\<remote> y recordemos que en el objetivo nos facilito estos datos:
 * **comando:** ssh
