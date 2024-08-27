@@ -26,7 +26,8 @@ FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 ## Notas Adicionales
 #### Comandos:
 * **strings {archivo}**:  captura secuencias de texto que tienen al menos 4 caracteres de longitud.
-* **grep "\=\=" :** Busca las lineas que contengan "\=\=" en la salida dada por el comando anterior.
-* ** sed "s/.*\=\=\s*\/\/":** sed es una herramienta de edición de texto en flujo, en el caso de la expresión que está como argumento sed a cualquier tenxto que tenga "=\=" elimina el contenido antes de estos y en caso de haber espacios en blanco después también los elimina (cuentan espacios y tabulaciones).
-*  **awk "length == 32" **: Filtra las líneas resultantes para mostrar solo aquellas que tienen exactamente los 32 caracteres mostrados en length.
+* **grep "\=\=" :** Busca las lineas que contengan `==` en la salida dada por el comando anterior.
+* **sed "s/.*\=\=\s*\/\/":** **sed** es una herramienta de edición de texto en flujo. En el caso de la expresión que está como argumento, **sed** elimina cualquier texto que tenga `==`, incluyendo el contenido antes de estos, y en caso de haber espacios en blanco después, también los elimina (contando tanto espacios como tabulaciones).
+* **awk "length == 32":** Filtra las líneas resultantes para mostrar solo aquellas que tienen exactamente los 32 caracteres mostrados en length.
+
 ## Referencias
