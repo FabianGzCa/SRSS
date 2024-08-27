@@ -11,9 +11,9 @@ Encontrar la contraseña en el archivo `data.txt`, que se encuentra en una de la
 ## Solución
 ```bash
 ls -l 
-total 20
 ```
 ```text
+total 20
 -rw-r----- 1 bandit10 bandit9 19379 Jul 17 15:57 data.txt
 ```
 ```bash
