@@ -10,10 +10,21 @@ Deberemos encontrar la contraseña en el archivo `data.txt`, que es un volcado h
 
 ## Solución
 ```bash
-
+ls -l
+```
+```text
+total 4
+-rw-r----- 1 bandit13 bandit12 2638 Jul 17 15:57 data.txt
+```
+```bash
+xxd -r data.txt | zcat | bzcat | zcat | tar xO | tar xO | bzcat | tar xO | zcat
+```
+```text
+total 4
+The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 ```
 
 ## Notas Adicionales
-
+El comando usado convierte el archivo data.txt que está en hexadecimal de un archivo comprimido varias veces en su forma original, descomprimiéndolo repetidamente a través de varios formatos de compresión.
 
 ## Referencias

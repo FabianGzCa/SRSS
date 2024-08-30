@@ -6,14 +6,20 @@ Deberemos recuperar la contraseña para el siguiente nivel enviando la contrase�
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
 - **usuario:** bandit2
-- **contraseña:** 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+- **contraseña:** MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 ## Solución
 ```bash
-
+nc localhost 30000
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+```
+```text
+Correct!
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ```
 
-## Notas Adicionales
 
+## Notas Adicionales
+Utilizamos ncat para conectarnos al servicio que corre en el puerto 30000 en el localhost el cual nos solicita una contraseña, colocamos la de inicio a bandit 14.
 
 ## Referencias
