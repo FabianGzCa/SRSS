@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
+                "file": "Bandit/Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
+                "file": "Bandit/Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
+                "file": "Bandit/Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bandit 10->11 a 15->16/Bandit 12 -> 13.md"
+                "file": "Bandit/Bandit 10->11 a 15->16/Bandit 12 -> 13.md"
               }
             }
           }
@@ -194,18 +194,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6864390c49bfa5ba",
+  "active": "cb6e5d72d9b3f1fd",
   "lastOpenFiles": [
-    "Bandit 10->11 a 15->16/Bandit 11 -> 12.md",
-    "Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
-    "Bandit 10->11 a 15->16/Bandit 10 -> 11.md",
+    "Bandit/Bandit 10->11 a 15->16/Bandit 11 -> 12.md",
+    "Bandit/Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
+    "Bandit/Bandit 10->11 a 15->16/Bandit 10 -> 11.md",
     "Bandit/Bandit 0->1 a 9->10/Bandit 4 -> 5.md",
     "Bandit/Bandit 0->1 a 9->10/Bandit 9 -> 10.md",
-    "Bandit 10->11 a 15->16/Bandit 15 -> 16.md",
-    "Bandit 10->11 a 15->16/Bandit 14 -> 15.md",
-    "Bandit 10->11 a 15->16/Bandit 13 -> 14.md",
+    "Bandit/Bandit 10->11 a 15->16/Bandit 15 -> 16.md",
+    "Bandit/Bandit 10->11 a 15->16/Bandit 14 -> 15.md",
+    "Bandit/Bandit 10->11 a 15->16/Bandit 13 -> 14.md",
     "Bandit/Plantilla.md",
-    "Bandit 10->11 a 15->16",
+    "Bandit/Bandit 10->11 a 15->16",
     "Bandit/Bandit 0->1 a 9->10/Bandit 3 -> 4.md",
     "Bandit/Bandit 0->1 a 9->10/Bandit 6 -> 7.md",
     "Bandit/Bandit 0->1 a 9->10/Bandit 8 -> 9.md",
