@@ -5,7 +5,7 @@ Encontrar la contraseña almacenada en el servidor que sea propiedad del usuario
 - **comando:** ssh
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
-- **usuario:** bandit2
+- **usuario:** bandit6
 - **contraseña:** HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 ## Solución

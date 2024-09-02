@@ -5,7 +5,7 @@ Encontrar la contraseña almacenada en un archivo oculto ubicado en el directori
 - **comando:** ssh
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
-- **usuario:** bandit2
+- **usuario:** bandit3
 - **contraseña:** MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ## Solución
 ```bash

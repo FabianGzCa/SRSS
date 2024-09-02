@@ -2,10 +2,10 @@
 Encontrar la contraseña en el archivo `data.txt`, que se encuentra en una de las pocas cadenas legibles por humanos precedidas por varios caracteres `=`.
 
 ## Datos de Acceso al Nivel
- **comando:** ssh
+- **comando:** ssh
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
-- **usuario:** bandit2
+- **usuario:** bandit9
 - **contraseña:** 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 
 ## Solución

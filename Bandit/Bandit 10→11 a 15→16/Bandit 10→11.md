@@ -5,7 +5,7 @@ Deberemos encontrar la contraseña en el archivo `data.txt`, que contiene datos 
  **comando:** ssh
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
-- **usuario:** bandit2
+- **usuario:** bandit10
 - **contraseña:** FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
 ## Solución

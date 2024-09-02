@@ -2,10 +2,10 @@
 Deberemos encontrar la contraseña en el archivo `data.txt`, donde todas las letras minúsculas y mayúsculas han sido rotadas 13 posiciones utilizando el cifrado ROT13. Para decodificar el texto y obtener la contraseña, se deberá usar el comando `tr`.
 
 ## Datos de Acceso al Nivel
- **comando:** ssh
+- **comando:** ssh
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
-- **usuario:** bandit2
+- **usuario:** bandit11
 - **contraseña:** dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
 ## Solución

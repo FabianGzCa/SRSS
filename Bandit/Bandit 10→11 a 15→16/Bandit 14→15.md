@@ -2,10 +2,10 @@
 Deberemos recuperar la contraseña para el siguiente nivel enviando la contraseña del nivel actual al puerto 30000 en `localhost`. Para realizar esto, podemos usar el comando `nc` (netcat) para conectar al puerto especificado y enviar la contraseña.
 
 ## Datos de Acceso al Nivel
- **comando:** ssh
+- **comando:** ssh
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
-- **usuario:** bandit2
+- **usuario:** bandit14
 - **contraseña:** MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 ## Solución

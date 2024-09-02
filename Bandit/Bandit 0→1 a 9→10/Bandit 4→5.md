@@ -5,7 +5,7 @@ Encontrar la contraseña almacenada en el único archivo legible por humanos en 
 - **comando:** ssh
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
-- **usuario:** bandit2
+- **usuario:** bandit4
 - **contraseña:** 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 ## Solución

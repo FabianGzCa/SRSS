@@ -13,7 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit/Bandit 10->11 a 15->16/Bandit 15 -> 16.md",
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 16→17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94bc3b39fffaeba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 17→18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "226364e17c1c635f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 18→19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "105db0e839d40d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 19→20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b06ede9d8f7b356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 20→21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea49372f17ebf912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 21→22.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit/Bandit 0->1 a 9->10/Bandit 5 -> 6.md",
+                "file": "Bandit/Bandit 0→1 a 9→10/Bandit 5→6.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit/Bandit 0->1 a 9->10/Bandit 6 -> 7.md",
+                "file": "Bandit/Bandit 0→1 a 9→10/Bandit 6→7.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit/Bandit 0->1 a 9->10/Bandit 9 -> 10.md",
+                "file": "Bandit/Bandit 0→1 a 9→10/Bandit 9→10.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,13 +121,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit/Bandit 0->1 a 9->10/Bandit 3 -> 4.md",
+                "file": "Bandit/Bandit 0→1 a 9→10/Bandit 3→4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bandit/Bandit 10->11 a 15->16/Bandit 15 -> 16.md",
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 21→22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bandit/Bandit 10->11 a 15->16/Bandit 15 -> 16.md",
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 21→22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bandit/Bandit 10->11 a 15->16/Bandit 15 -> 16.md"
+                "file": "Bandit/Bandit 16→17 a 21→22/Bandit 21→22.md"
               }
             }
           }
@@ -194,35 +255,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6864390c49bfa5ba",
+  "active": "ea49372f17ebf912",
   "lastOpenFiles": [
-    "Bandit/Bandit 10->11 a 15->16/Bandit 14 -> 15.md",
-    "Bandit/Bandit 10->11 a 15->16/Bandit 15 -> 16.md",
+    "Bandit/Bandit 16→17 a 21→22/Bandit 20→21.md",
+    "Bandit/Bandit 16→17 a 21→22/Bandit 19→20.md",
+    "Bandit/Bandit 16→17 a 21→22/Bandit 18→19.md",
+    "Bandit/Bandit 16→17 a 21→22/Bandit 17→18.md",
+    "Bandit/Bandit 16→17 a 21→22/Bandit 16→17.md",
+    "Bandit/Bandit 16→17 a 21→22/Bandit 21→22.md",
+    "Bandit/Bandit 0/Bandit 0.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 0→1.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 1→2.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 2→3.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 3→4.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 4→5.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 5→6.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 6→7.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 7→8.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 8→9.md",
+    "Bandit/Bandit 0→1 a 9→10/Bandit 9→10.md",
+    "Bandit/Bandit 10→11 a 15→16/Bandit 10→11.md",
+    "Bandit/Bandit 10→11 a 15→16/Bandit 11→12.md",
+    "Bandit/Bandit 10→11 a 15→16/Bandit 12→13.md",
+    "Bandit/Bandit 10→11 a 15→16/Bandit 13→14.md",
+    "Bandit/Bandit 10→11 a 15→16/Bandit 14→15.md",
+    "Bandit/Bandit 10→11 a 15→16/Bandit 15→16.md",
+    "Bandit/Plantilla.md",
+    "Bandit/Bandit 16→17 a 21→22/KEY17",
+    "Bandit/Bandit 16→17 a 21→22/17",
+    "Bandit/Bandit 16→17 a 21→22/KEY16-.save",
     "Bandit/Bandit.md",
+    "Bienvenido a SRSS.md",
+    "Bandit/Bandit 16→17 a 21→22",
     "Bandit/Bandit 10->11 a 15->16/Bandit 15 -> 16/SSHKEY",
     "Bandit/Bandit 10->11 a 15->16/Bandit 15 -> 16",
-    "Bandit/Bandit 10->11 a 15->16/Bandit 13 -> 14.md",
-    "Bandit/Bandit 10->11 a 15->16/Bandit 12 -> 13.md",
-    "Bandit/Bandit 10->11 a 15->16/Bandit 11 -> 12.md",
-    "Bandit/Bandit 10->11 a 15->16/Bandit 10 -> 11.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 4 -> 5.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 9 -> 10.md",
-    "Bandit/Plantilla.md",
-    "Bandit/Bandit 10->11 a 15->16",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 3 -> 4.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 6 -> 7.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 8 -> 9.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 1 -> 2.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 0 -> 1.md",
-    "Bandit/Bandit 0->1 a 9->10/Sin título.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 7 -> 8.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 5 -> 6.md",
-    "Bandit/Bandit 0->1 a 9->10/Bandit 2 -> 3.md",
-    "Bienvenido a SRSS.md",
-    "README.md",
-    "Bandit/Bandit 0/Bandit 0.md",
-    "Bandit/Bandit 0/Sin título.md",
-    "Bandit/Bandit 0->1/Sin título.md",
-    "Bandit/Bandit 0->1 a 9->10"
+    "Bandit/Bandit 10→11 a 15→16",
+    "Bandit/Bandit 0→1 a 9→10"
   ]
 }

@@ -5,7 +5,7 @@ Encontrar la contraseña almacenada en un archivo bajo el directorio `inhere` qu
 - **comando:** ssh
 - **host:** bandit.labs.overthewire.org
 - **puerto:** 2220
-- **usuario:** bandit2
+- **usuario:** bandit5
 - **contraseña:** 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 ## Solución
