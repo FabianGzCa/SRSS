@@ -25,17 +25,21 @@ ED25519 key fingerprint is SHA256:C2ihUBV7ihnV1wUXRb4RrEcLfXC5CXlhmAAM/urerLY.
 This key is not known by any other names.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 Could not create directory '/home/bandit25/.ssh' (Permission denied).
-Failed to add the host to the list of known hosts (/home/bandit25/.ssh/known_hosts).
+Failed to add the host to the list of known hosts 
+v
+(/home/bandit25/.ssh/known_hosts).
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|
                         | |_) | (_| | | | | (_| | | |_ 
                         |_.__/ \__,_|_| |_|\__,_|_|\__|
+:e /etc/bandit_pass/bandit26
 s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
+:q!
 ```
 
 
 ## Notas Adicionales
-
+Se necesita reducir el tamaño la terminal para que funcione.
 
 ## Referencias
