@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit/Bandit 22→23 a 27→28/Bandit 27→28.md",
-                "mode": "preview",
+                "file": "Bandit/Bandit 28→29 a 33→34/Bandit 33→34.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bandit/Bandit 22→23 a 27→28/Bandit 27→28.md",
+                "file": "Bandit/Bandit 28→29 a 33→34/Bandit 33→34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bandit/Bandit 22→23 a 27→28/Bandit 27→28.md",
+                "file": "Bandit/Bandit 28→29 a 33→34/Bandit 33→34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bandit/Bandit 22→23 a 27→28/Bandit 27→28.md"
+                "file": "Bandit/Bandit 28→29 a 33→34/Bandit 33→34.md"
               }
             }
           }
@@ -148,15 +148,22 @@
   },
   "active": "41a8db3d48bb61e1",
   "lastOpenFiles": [
+    "Bandit/Bandit 28→29 a 33→34/Bandit 32→33.md",
+    "Bandit/Bandit 28→29 a 33→34/Bandit 30→31.md",
+    "Bandit/Bandit 28→29 a 33→34/Bandit 29→30.md",
+    "Bandit/Bandit 28→29 a 33→34/Bandit 28→29.md",
+    "Bandit/Bandit 28→29 a 33→34/Bandit 31→32.md",
+    "Bandit/Bandit 28→29 a 33→34/Bandit 33→34.md",
+    "Bandit/Bandit 22→23 a 27→28/Bandit 27→28.md",
+    "Bandit/Plantilla.md",
+    "Bandit/Bandit 28→29 a 33→34",
     "Bandit/Bandit 22→23 a 27→28/Bandit 26→27.md",
     "Bandit/Bandit 22→23 a 27→28/Bandit 25→26.md",
-    "Bandit/Bandit 22→23 a 27→28/Bandit 27→28.md",
     "Bandit/Bandit 22→23 a 27→28/Bandit 24→25.md",
     "Bandit/Bandit 22→23 a 27→28/Bandit 23→24.md",
     "Bandit/Bandit 22→23 a 27→28/Bandit 22→23.md",
     "Bandit/Bandit 16→17 a 21→22/Bandit 20→21.md",
     "Bandit/Bandit 16→17 a 21→22/Bandit 21→22.md",
-    "Bandit/Plantilla.md",
     "Bandit/Bandit 16→17 a 21→22/Bandit 17→18.md",
     "Bandit/Bandit 22→23 a 27→28",
     "Bandit/Bandit 16→17 a 21→22/Bandit 16→17.md",
@@ -169,12 +176,6 @@
     "Bandit/Bandit 0/Bandit 0.md",
     "Bandit/Bandit 0→1 a 9→10/Bandit 0→1.md",
     "Bandit/Bandit 0→1 a 9→10/Bandit 1→2.md",
-    "Bandit/Bandit 0→1 a 9→10/Bandit 2→3.md",
-    "Bandit/Bandit 0→1 a 9→10/Bandit 4→5.md",
-    "Bandit/Bandit 0→1 a 9→10/Bandit 7→8.md",
-    "Bandit/Bandit 0→1 a 9→10/Bandit 8→9.md",
-    "Bandit/Bandit 10→11 a 15→16/Bandit 10→11.md",
-    "Bandit/Bandit 10→11 a 15→16/Bandit 11→12.md",
     "Bandit/Bandit 16→17 a 21→22/KEY17",
     "Bandit/Bandit 16→17 a 21→22/17",
     "Bandit/Bandit 16→17 a 21→22/KEY16-.save",
