@@ -11,8 +11,12 @@
             "id": "9893b085e8205687",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Retos Web Parte 1/06-picobrowser.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/Retos Web Parte 1/06-picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/Retos Web Parte 1/06-picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/Retos Web Parte 1/06-picobrowser.md"
+              }
             }
           }
         ]
@@ -140,42 +148,42 @@
   },
   "active": "9893b085e8205687",
   "lastOpenFiles": [
-    "picoCTF/16-Magikarp Ground Mission.md",
-    "picoCTF/36-plumbing.md",
-    "picoCTF/39-Special.md",
-    "picoCTF/38-Serpentine.md",
-    "picoCTF/40-useless.md",
-    "picoCTF/Archivos/Serpentine/serpentine.py",
-    "picoCTF/Archivos/Serpentine",
-    "picoCTF/37-PW Crack 3.md",
-    "picoCTF/Archivos/PW Crack 3/level3.hash.bin",
-    "picoCTF/Archivos/PW Crack 3/level3.flag.txt.enc",
-    "picoCTF/Archivos/PW Crack 3/level3.py",
-    "picoCTF/Archivos/PW Crack 3",
-    "picoCTF/35-Permissions.md",
-    "picoCTF/34-chrono.md",
-    "picoCTF/33-Based.md",
-    "picoCTF/32-ASCII Numbers.md",
-    "picoCTF/Archivos/Based/Based.py",
+    "picoCTF/Retos Web Parte 1/01-dont-use-client-side.md",
+    "picoCTF/Retos Web Parte 1/02-Insp3ct0r.md",
+    "picoCTF/Retos Web Parte 1/04-where are the robots.md",
+    "picoCTF/Retos Web Parte 1/03-logon.md",
+    "picoCTF/Retos Web Parte 1/06-picobrowser.md",
+    "picoCTF/Retos Web Parte 1/05-Client-side-again.md",
+    "picoCTF/Retos Web Parte 1/Plantilla.md",
+    "picoCTF/Parcial/04-Blame Game.md",
+    "picoCTF/Retos Web Parte 1",
+    "picoCTF/Parcial/Plantilla.md",
+    "picoCTF/Parcial/40-useless.md",
+    "picoCTF/Parcial/39-Special.md",
+    "picoCTF/Parcial/38-Serpentine.md",
+    "picoCTF/Parcial/37-PW Crack 3.md",
+    "picoCTF/Parcial/36-plumbing.md",
+    "picoCTF/Parcial/35-Permissions.md",
+    "picoCTF/Parcial/34-chrono.md",
+    "picoCTF/Parcial/33-Based.md",
+    "picoCTF/Parcial/32-ASCII Numbers.md",
+    "picoCTF/Parcial/31-Lets Warm Up.md",
+    "picoCTF/Parcial/30-what's a net cat?.md",
+    "picoCTF/Parcial/29-Wave a flag.md",
+    "picoCTF/Parcial/28-Warmed Up.md",
+    "picoCTF/Parcial/27-strings it.md",
+    "picoCTF/Parcial/26-Static ain't always noise.md",
+    "picoCTF/Parcial/25-Obedient Cat.md",
+    "picoCTF/Parcial/24-Nice netcat....md",
+    "picoCTF/Parcial",
+    "picoCTF/Parcial/Archivos/Serpentine/serpentine.py",
+    "picoCTF/Parcial/Archivos/Serpentine",
+    "picoCTF/Parcial/Archivos/PW Crack 3/level3.hash.bin",
+    "picoCTF/Parcial/Archivos/PW Crack 3/level3.flag.txt.enc",
+    "picoCTF/Parcial/Archivos/PW Crack 3/level3.py",
+    "picoCTF/Parcial/Archivos/PW Crack 3",
+    "picoCTF/Parcial/Archivos/Based/Based.py",
     "picoCTF/Archivos/Based/BasedBin.py",
-    "picoCTF/Archivos/Based",
-    "picoCTF/24-Nice netcat....md",
-    "picoCTF/25-Obedient Cat.md",
-    "picoCTF/23-First Grep.md",
-    "picoCTF/22-Bases.md",
-    "picoCTF/21-2Warm.md",
-    "picoCTF/20-Tab, Tab, Attack.md",
-    "picoCTF/19-runme.md",
-    "picoCTF/18-PW Crack 2.md",
-    "picoCTF/31-Lets Warm Up.md",
-    "picoCTF/30-what's a net cat?.md",
-    "picoCTF/29-Wave a flag.md",
-    "picoCTF/28-Warmed Up.md",
-    "picoCTF/27-strings it.md",
-    "picoCTF/26-Static ain't always noise.md",
-    "picoCTF/Archivos/Wave a flag/warm",
-    "picoCTF/Plantilla.md",
-    "10-09-2024.png",
-    "picoCTF/17-PW Crack 1.md"
+    "10-09-2024.png"
   ]
 }
