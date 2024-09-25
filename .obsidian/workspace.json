@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Web Parte 2/JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web Parte 3/Cokies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Web Parte 2/JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web Parte 3/Cokies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Web Parte 2/JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web Parte 3/Cokies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Web Parte 2/JaWT Scratchpad.md"
+                "file": "picoCTF/Retos Web Parte 3/Cokies.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "9893b085e8205687",
   "lastOpenFiles": [
+    "picoCTF/Retos Web Parte 3/Plantilla.md",
+    "picoCTF/Retos Web Parte 3/GET aHEAD.md",
+    "picoCTF/Retos Web Parte 3/Scavenger Hunt.md",
+    "picoCTF/Retos Web Parte 3/Cokies.md",
+    "picoCTF/Retos Web Parte 2/JaWT Scratchpad.md",
+    "picoCTF/Retos Web Parte 3",
     "picoCTF/Retos Web Parte 2/Irish-Name-Repo 1.md",
     "picoCTF/Retos Web Parte 2/Irish-Name-Repo 2.md",
     "picoCTF/Retos Web Parte 2/Irish-Name-Repo 3.md",
-    "picoCTF/Retos Web Parte 2/JaWT Scratchpad.md",
     "picoCTF/Retos Web Parte 2/Sin título.md",
     "picoCTF/Retos Web Parte 2/Plantilla.md",
     "picoCTF/Retos Web Parte 1/06-picobrowser.md",
@@ -172,10 +177,6 @@
     "picoCTF/Parcial/36-plumbing.md",
     "picoCTF/Parcial/35-Permissions.md",
     "picoCTF/Parcial/34-chrono.md",
-    "picoCTF/Parcial/33-Based.md",
-    "picoCTF/Parcial/32-ASCII Numbers.md",
-    "picoCTF/Parcial/31-Lets Warm Up.md",
-    "picoCTF/Parcial/30-what's a net cat?.md",
     "picoCTF/Parcial",
     "picoCTF/Parcial/Archivos/Serpentine/serpentine.py",
     "picoCTF/Parcial/Archivos/Serpentine",
@@ -183,7 +184,6 @@
     "picoCTF/Parcial/Archivos/PW Crack 3/level3.flag.txt.enc",
     "picoCTF/Parcial/Archivos/PW Crack 3/level3.py",
     "picoCTF/Parcial/Archivos/PW Crack 3",
-    "picoCTF/Parcial/Archivos/Based/Based.py",
     "10-09-2024.png"
   ]
 }
