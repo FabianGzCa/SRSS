@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Web Parte 3/Cokies.md",
+                "file": "picoCTF/Retos Web Parte 4/04-Trickster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Web Parte 3/Cokies.md",
+                "file": "picoCTF/Retos Web Parte 4/04-Trickster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Web Parte 3/Cokies.md",
+                "file": "picoCTF/Retos Web Parte 4/04-Trickster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Web Parte 3/Cokies.md"
+                "file": "picoCTF/Retos Web Parte 4/04-Trickster.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "9893b085e8205687",
   "lastOpenFiles": [
+    "picoCTF/Retos Web Parte 4/03-SOAP.md",
+    "picoCTF/Retos Web Parte 4/04-Trickster.md",
+    "picoCTF/Retos Web Parte 4/02-Most Cookies.md",
+    "picoCTF/Retos Web Parte 4/wordlistcookies",
+    "picoCTF/Retos Web Parte 4/01-MatchTheRegex.md",
+    "picoCTF/Retos Web Parte 4/Plantilla.md",
+    "picoCTF/Retos Web Parte 3/Scavenger Hunt.md",
+    "picoCTF/Retos Web Parte 4",
     "picoCTF/Retos Web Parte 3/Plantilla.md",
     "picoCTF/Retos Web Parte 3/GET aHEAD.md",
-    "picoCTF/Retos Web Parte 3/Scavenger Hunt.md",
     "picoCTF/Retos Web Parte 3/Cokies.md",
     "picoCTF/Retos Web Parte 2/JaWT Scratchpad.md",
     "picoCTF/Retos Web Parte 3",
@@ -172,18 +179,11 @@
     "picoCTF/Parcial/Plantilla.md",
     "picoCTF/Parcial/40-useless.md",
     "picoCTF/Parcial/39-Special.md",
-    "picoCTF/Parcial/38-Serpentine.md",
-    "picoCTF/Parcial/37-PW Crack 3.md",
-    "picoCTF/Parcial/36-plumbing.md",
-    "picoCTF/Parcial/35-Permissions.md",
-    "picoCTF/Parcial/34-chrono.md",
     "picoCTF/Parcial",
     "picoCTF/Parcial/Archivos/Serpentine/serpentine.py",
     "picoCTF/Parcial/Archivos/Serpentine",
     "picoCTF/Parcial/Archivos/PW Crack 3/level3.hash.bin",
     "picoCTF/Parcial/Archivos/PW Crack 3/level3.flag.txt.enc",
-    "picoCTF/Parcial/Archivos/PW Crack 3/level3.py",
-    "picoCTF/Parcial/Archivos/PW Crack 3",
     "10-09-2024.png"
   ]
 }
