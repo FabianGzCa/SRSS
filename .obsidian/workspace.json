@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Web Parte 4/04-Trickster.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Web Parte 4/04-Trickster.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Web Parte 4/04-Trickster.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Web Parte 4/04-Trickster.md"
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md"
               }
             }
           }
@@ -148,42 +148,45 @@
   },
   "active": "9893b085e8205687",
   "lastOpenFiles": [
-    "picoCTF/Retos Web Parte 4/03-SOAP.md",
-    "picoCTF/Retos Web Parte 4/04-Trickster.md",
-    "picoCTF/Retos Web Parte 4/02-Most Cookies.md",
-    "picoCTF/Retos Web Parte 4/wordlistcookies",
-    "picoCTF/Retos Web Parte 4/01-MatchTheRegex.md",
-    "picoCTF/Retos Web Parte 4/Plantilla.md",
-    "picoCTF/Retos Web Parte 3/Scavenger Hunt.md",
-    "picoCTF/Retos Web Parte 4",
-    "picoCTF/Retos Web Parte 3/Plantilla.md",
-    "picoCTF/Retos Web Parte 3/GET aHEAD.md",
-    "picoCTF/Retos Web Parte 3/Cokies.md",
-    "picoCTF/Retos Web Parte 2/JaWT Scratchpad.md",
-    "picoCTF/Retos Web Parte 3",
-    "picoCTF/Retos Web Parte 2/Irish-Name-Repo 1.md",
-    "picoCTF/Retos Web Parte 2/Irish-Name-Repo 2.md",
-    "picoCTF/Retos Web Parte 2/Irish-Name-Repo 3.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/buildings.png",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/Plantilla 1.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/04-So Meta.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/pico_img.png",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/capture.pcap",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/03-shark on wire 1.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/flag.PNG",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/02-extensions.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/01-Retos Forensic - Parte 1.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/garden.jpg",
+    "picoCTF/Web/Retos Web Parte 4/04-Trickster.md",
+    "picoCTF/Forensic",
+    "picoCTF/Web",
+    "picoCTF/Web/Retos Web Parte 4/Plantilla.md",
+    "picoCTF/Retos Forensic - Parte 1/Sin título.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 1",
+    "picoCTF/Web/Retos Web Parte 4/03-SOAP.md",
+    "picoCTF/Web/Retos Web Parte 4/02-Most Cookies.md",
+    "picoCTF/Web/Retos Web Parte 4/wordlistcookies",
+    "picoCTF/Web/Retos Web Parte 4/01-MatchTheRegex.md",
+    "picoCTF/Web/Retos Web Parte 3/Scavenger Hunt.md",
+    "picoCTF/Web/Retos Web Parte 4",
+    "picoCTF/Web/Retos Web Parte 3/Plantilla.md",
+    "picoCTF/Web/Retos Web Parte 3/GET aHEAD.md",
+    "picoCTF/Web/Retos Web Parte 3/Cokies.md",
+    "picoCTF/Web/Retos Web Parte 2/JaWT Scratchpad.md",
+    "picoCTF/Web/Retos Web Parte 3",
+    "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 1.md",
+    "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 2.md",
+    "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 3.md",
     "picoCTF/Retos Web Parte 2/Sin título.md",
-    "picoCTF/Retos Web Parte 2/Plantilla.md",
-    "picoCTF/Retos Web Parte 1/06-picobrowser.md",
-    "picoCTF/Retos Web Parte 2",
-    "picoCTF/Retos Web Parte 1/01-dont-use-client-side.md",
-    "picoCTF/Retos Web Parte 1/02-Insp3ct0r.md",
-    "picoCTF/Retos Web Parte 1/04-where are the robots.md",
-    "picoCTF/Retos Web Parte 1/03-logon.md",
-    "picoCTF/Retos Web Parte 1/05-Client-side-again.md",
-    "picoCTF/Retos Web Parte 1/Plantilla.md",
-    "picoCTF/Parcial/04-Blame Game.md",
-    "picoCTF/Retos Web Parte 1",
-    "picoCTF/Parcial/Plantilla.md",
-    "picoCTF/Parcial/40-useless.md",
-    "picoCTF/Parcial/39-Special.md",
+    "picoCTF/Web/Retos Web Parte 2/Plantilla.md",
+    "picoCTF/Web/Retos Web Parte 1/06-picobrowser.md",
+    "picoCTF/Web/Retos Web Parte 2",
+    "picoCTF/Web/Retos Web Parte 1/01-dont-use-client-side.md",
+    "picoCTF/Web/Retos Web Parte 1/02-Insp3ct0r.md",
+    "picoCTF/Web/Retos Web Parte 1",
     "picoCTF/Parcial",
-    "picoCTF/Parcial/Archivos/Serpentine/serpentine.py",
-    "picoCTF/Parcial/Archivos/Serpentine",
-    "picoCTF/Parcial/Archivos/PW Crack 3/level3.hash.bin",
-    "picoCTF/Parcial/Archivos/PW Crack 3/level3.flag.txt.enc",
     "10-09-2024.png"
   ]
 }
