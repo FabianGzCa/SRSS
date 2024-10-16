@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md"
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "9893b085e8205687",
   "lastOpenFiles": [
-    "picoCTF/Forensic/Retos Forensic - Parte 1/buildings.png",
-    "picoCTF/Forensic/Retos Forensic - Parte 1/Plantilla 1.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 2/02-like1000.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 2/01-c0rrupt.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 2/05-WhitePages.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 2/04-shark on wire 2.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 2/Plantilla.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 2",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/buildings.png",
+    "picoCTF/Forensic/Retos Forensic - Parte 1/Plantilla.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1/04-So Meta.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1/pico_img.png",
     "picoCTF/Forensic/Retos Forensic - Parte 1/capture.pcap",
@@ -179,14 +186,8 @@
     "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 1.md",
     "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 2.md",
     "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 3.md",
-    "picoCTF/Retos Web Parte 2/Sin título.md",
-    "picoCTF/Web/Retos Web Parte 2/Plantilla.md",
-    "picoCTF/Web/Retos Web Parte 1/06-picobrowser.md",
     "picoCTF/Web/Retos Web Parte 2",
-    "picoCTF/Web/Retos Web Parte 1/01-dont-use-client-side.md",
-    "picoCTF/Web/Retos Web Parte 1/02-Insp3ct0r.md",
     "picoCTF/Web/Retos Web Parte 1",
-    "picoCTF/Parcial",
     "10-09-2024.png"
   ]
 }
