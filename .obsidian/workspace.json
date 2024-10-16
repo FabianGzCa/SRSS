@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md",
+                "file": "picoCTF/Crypto/Retos Crypto - Parte 1/07-waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md",
+                "file": "picoCTF/Crypto/Retos Crypto - Parte 1/07-waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md",
+                "file": "picoCTF/Crypto/Retos Crypto - Parte 1/07-waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md"
+                "file": "picoCTF/Crypto/Retos Crypto - Parte 1/07-waves over lambda.md"
               }
             }
           }
@@ -148,8 +148,21 @@
   },
   "active": "9893b085e8205687",
   "lastOpenFiles": [
-    "picoCTF/Forensic/Retos Forensic - Parte 4/05-Sleuthkit Apprentice.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/the_numbers.png",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/07-waves over lambda.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/06-Tapping.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/05-la cifra de.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/02-Easy 1.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/04-Cesar.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/01-The numbers.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/03-13.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/ciphertext",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/TheNumbers.py",
+    "picoCTF/Crypto/Retos Crypto - Parte 1/Plantilla.md",
     "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 1",
+    "picoCTF/Crypto",
+    "picoCTF/Forensic/Retos Forensic - Parte 4/05-Sleuthkit Apprentice.md",
     "picoCTF/Forensic/Retos Forensic - Parte 4/04-Operation Orchid.md",
     "picoCTF/Forensic/Retos Forensic - Parte 4/03-Operation Oni.md",
     "picoCTF/Forensic/Retos Forensic - Parte 4/02-Disk, disk, sleuth!.md",
@@ -170,24 +183,11 @@
     "picoCTF/Forensic/Retos Forensic - Parte 1/capture.pcap",
     "picoCTF/Forensic/Retos Forensic - Parte 1/03-shark on wire 1.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1/flag.PNG",
-    "picoCTF/Forensic/Retos Forensic - Parte 1/02-extensions.md",
-    "picoCTF/Forensic/Retos Forensic - Parte 1/01-Retos Forensic - Parte 1.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1/garden.jpg",
-    "picoCTF/Web/Retos Web Parte 4/04-Trickster.md",
     "picoCTF/Forensic",
     "picoCTF/Web",
-    "picoCTF/Web/Retos Web Parte 4/Plantilla.md",
-    "picoCTF/Retos Forensic - Parte 1/Sin título.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1",
-    "picoCTF/Web/Retos Web Parte 4/03-SOAP.md",
-    "picoCTF/Web/Retos Web Parte 4/02-Most Cookies.md",
     "picoCTF/Web/Retos Web Parte 4/wordlistcookies",
-    "picoCTF/Web/Retos Web Parte 4/01-MatchTheRegex.md",
-    "picoCTF/Web/Retos Web Parte 3/Scavenger Hunt.md",
-    "picoCTF/Web/Retos Web Parte 4",
-    "picoCTF/Web/Retos Web Parte 3",
-    "picoCTF/Web/Retos Web Parte 2",
-    "picoCTF/Web/Retos Web Parte 1",
     "10-09-2024.png"
   ]
 }
