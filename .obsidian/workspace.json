@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md"
+                "file": "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md"
               }
             }
           }
@@ -148,11 +148,18 @@
   },
   "active": "9893b085e8205687",
   "lastOpenFiles": [
+    "picoCTF/Forensic/Retos Forensic - Parte 4/05-Sleuthkit Apprentice.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 4/06-Sleuthkit Intro.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 4/04-Operation Orchid.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 4/03-Operation Oni.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 4/02-Disk, disk, sleuth!.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 4/01-Disk, disk, sleuth!.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 4/Plantilla.md",
+    "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2/02-like1000.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2/01-c0rrupt.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2/05-WhitePages.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2/04-shark on wire 2.md",
-    "picoCTF/Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2/Plantilla.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2",
@@ -178,14 +185,7 @@
     "picoCTF/Web/Retos Web Parte 4/01-MatchTheRegex.md",
     "picoCTF/Web/Retos Web Parte 3/Scavenger Hunt.md",
     "picoCTF/Web/Retos Web Parte 4",
-    "picoCTF/Web/Retos Web Parte 3/Plantilla.md",
-    "picoCTF/Web/Retos Web Parte 3/GET aHEAD.md",
-    "picoCTF/Web/Retos Web Parte 3/Cokies.md",
-    "picoCTF/Web/Retos Web Parte 2/JaWT Scratchpad.md",
     "picoCTF/Web/Retos Web Parte 3",
-    "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 1.md",
-    "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 2.md",
-    "picoCTF/Web/Retos Web Parte 2/Irish-Name-Repo 3.md",
     "picoCTF/Web/Retos Web Parte 2",
     "picoCTF/Web/Retos Web Parte 1",
     "10-09-2024.png"
