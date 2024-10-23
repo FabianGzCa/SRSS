@@ -25,12 +25,14 @@
             "id": "64bbf2a2b8978fe1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "picoCTF/Crypto/Retos Crypto - Parte 2/03-rsa-pop-quiz.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "03-rsa-pop-quiz"
             }
           }
         ],
@@ -177,6 +179,13 @@
   },
   "active": "64bbf2a2b8978fe1",
   "lastOpenFiles": [
+    "picoCTF/Crypto/Retos Crypto - Parte 2/02-miniRSA.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 2/RSA.py",
+    "picoCTF/Crypto/Retos Crypto - Parte 2/ciphertext",
+    "picoCTF/Crypto/Retos Crypto - Parte 2/03-rsa-pop-quiz.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 2/Plantilla.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 2/01-b00tl3gRSA2.md",
+    "picoCTF/Crypto/Retos Crypto - Parte 2",
     "Concursos/CTF Metared",
     "picoCTF/Crypto/Retos Crypto - Parte 1/02-Easy 1.md",
     "picoCTF/Crypto/Retos Crypto - Parte 1/03-13.md",
@@ -204,20 +213,12 @@
     "picoCTF/Forensic/Retos Forensic - Parte 2/05-WhitePages.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2/04-shark on wire 2.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2/Plantilla.md",
-    "picoCTF/Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
     "picoCTF/Forensic/Retos Forensic - Parte 2",
     "picoCTF/Forensic/Retos Forensic - Parte 1/buildings.png",
-    "picoCTF/Forensic/Retos Forensic - Parte 1/Plantilla.md",
-    "picoCTF/Forensic/Retos Forensic - Parte 1/04-So Meta.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1/pico_img.png",
     "picoCTF/Forensic/Retos Forensic - Parte 1/capture.pcap",
-    "picoCTF/Forensic/Retos Forensic - Parte 1/03-shark on wire 1.md",
     "picoCTF/Forensic/Retos Forensic - Parte 1/flag.PNG",
     "picoCTF/Forensic/Retos Forensic - Parte 1/garden.jpg",
-    "picoCTF/Forensic",
-    "picoCTF/Web",
-    "picoCTF/Forensic/Retos Forensic - Parte 1",
-    "picoCTF/Web/Retos Web Parte 4/wordlistcookies",
     "10-09-2024.png"
   ]
 }
