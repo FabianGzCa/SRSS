@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "10382ad3f4a2c961",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc697dea0aeaf029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a950e0fa78ec3bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05-vault-door-5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8a44a66c8c1ca40",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0514a53bc3ee07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f44c9fd8f43a11a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0e588d76ed631b87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cdc0b967874ed09c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d09e06d579a670c",
+    "type": "split",
+    "children": [
+      {
+        "id": "110b46a1f38affa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f37466165187a342",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05-vault-door-5"
+            }
+          },
+          {
+            "id": "a06c61448da89987",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05-vault-door-5"
+            }
+          },
+          {
+            "id": "c2863e31d3d3e130",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aaa17c70bfa2b3b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05-vault-door-5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a950e0fa78ec3bc6",
+  "lastOpenFiles": [
+    "Reversing/Retos Reversing - Parte 1/VaultDoor5.class",
+    "Reversing/Retos Reversing - Parte 1/VaultDoor5.java",
+    "Reversing/Retos Reversing - Parte 1/Plantilla.md",
+    "Reversing/Retos Reversing - Parte 1/04-vault-door-4.md",
+    "Reversing/Retos Reversing - Parte 1/VaultDoor4.class",
+    "Reversing/Retos Reversing - Parte 1/VaultDoor4.java",
+    "Reversing/Retos Reversing - Parte 1/03-vault-door-3.md",
+    "Reversing/Retos Reversing - Parte 1/VaultDoor3.class",
+    "Reversing/Retos Reversing - Parte 1/VaultDoor3.java",
+    "Reversing/Retos Reversing - Parte 1/02-vault-door-1.md",
+    "Reversing/Retos Reversing - Parte 1/VaultDoor1.class",
+    "Reversing/Retos Reversing - Parte 1/VaultDoor1.java",
+    "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
+    "Reversing/Retos Reversing - Parte 1/01-vault-door-training.md",
+    "Reversing/Retos Reversing - Parte 1/VaultDoorTraining.class",
+    "Reversing/Retos Reversing - Parte 1/VaultDoorTraining.java"
+  ]
+}
