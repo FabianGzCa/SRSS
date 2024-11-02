@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
+                "file": "Reversing/Retos Reversing - Parte 2/04-Picker IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-vault-door-5"
+              "title": "04-Picker IV"
             }
           }
         ]
@@ -164,21 +164,39 @@
   },
   "active": "a950e0fa78ec3bc6",
   "lastOpenFiles": [
-    "Reversing/Retos Reversing - Parte 1/VaultDoor5.class",
-    "Reversing/Retos Reversing - Parte 1/VaultDoor5.java",
+    "Reversing/Retos Reversing - Parte 2/picker-IV.c",
+    "Reversing/Retos Reversing - Parte 2/picker-IV",
+    "Reversing/Retos Reversing - Parte 2/03-Picker III.md",
+    "Reversing/Retos Reversing - Parte 2/picker-III.py",
+    "Reversing/Retos Reversing - Parte 2/02-Picker II.md",
+    "Reversing/Retos Reversing - Parte 2/01-Picker I.md",
+    "Reversing/Retos Reversing - Parte 2/picker-II.py",
+    "Reversing/Retos Reversing - Parte 2/picker-I.py",
+    "Reversing/Retos Reversing - Parte 2/06-timer.md",
+    "Reversing/Retos Reversing - Parte 2/05-Safe Opener 2.md",
+    "Reversing/Retos Reversing - Parte 2/timer/META-INF/MANIFEST.MF",
+    "Reversing/Retos Reversing - Parte 2/timer/META-INF/CERT.RSA",
+    "Reversing/Retos Reversing - Parte 2/timer/META-INF/CERT.SF",
+    "Reversing/Retos Reversing - Parte 2/timer/classes.dex",
+    "Reversing/Retos Reversing - Parte 2/timer/kotlin/ranges/ranges.kotlin_builtins",
+    "Reversing/Retos Reversing - Parte 2/timer/kotlin/reflect/reflect.kotlin_builtins",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xxxhdpi-v4/ic_launcher_round.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xxxhdpi-v4/ic_launcher.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xxhdpi-v4/ic_launcher_round.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xxhdpi-v4/ic_launcher.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xhdpi-v4/ic_launcher_round.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xhdpi-v4/ic_launcher.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-hdpi-v4/ic_launcher_round.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-hdpi-v4/ic_launcher.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-mdpi-v4/ic_launcher_round.webp",
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-mdpi-v4/ic_launcher.webp",
+    "Reversing/Retos Reversing - Parte 2/04-Picker IV.md",
+    "Reversing/Retos Reversing - Parte 2/Plantilla.md",
+    "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
     "Reversing/Retos Reversing - Parte 1/Plantilla.md",
     "Reversing/Retos Reversing - Parte 1/04-vault-door-4.md",
-    "Reversing/Retos Reversing - Parte 1/VaultDoor4.class",
-    "Reversing/Retos Reversing - Parte 1/VaultDoor4.java",
     "Reversing/Retos Reversing - Parte 1/03-vault-door-3.md",
-    "Reversing/Retos Reversing - Parte 1/VaultDoor3.class",
-    "Reversing/Retos Reversing - Parte 1/VaultDoor3.java",
     "Reversing/Retos Reversing - Parte 1/02-vault-door-1.md",
-    "Reversing/Retos Reversing - Parte 1/VaultDoor1.class",
-    "Reversing/Retos Reversing - Parte 1/VaultDoor1.java",
-    "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
-    "Reversing/Retos Reversing - Parte 1/01-vault-door-training.md",
-    "Reversing/Retos Reversing - Parte 1/VaultDoorTraining.class",
-    "Reversing/Retos Reversing - Parte 1/VaultDoorTraining.java"
+    "Reversing/Retos Reversing - Parte 1/01-vault-door-training.md"
   ]
 }
