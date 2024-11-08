@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing/Retos Reversing - Parte 3/03-asm1.md",
+                "file": "Reversing/Retos Reversing - Parte 4/04-reverse_cipher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-asm1"
+              "title": "04-reverse_cipher"
             }
           }
         ],
@@ -179,22 +179,28 @@
   },
   "active": "f6c7a731dbd5728a",
   "lastOpenFiles": [
+    "Reversing/Retos Reversing - Parte 4/Archivos/exp.py",
+    "Reversing/Retos Reversing - Parte 4/Archivos/rev_this",
+    "Reversing/Retos Reversing - Parte 4/Archivos/rev",
+    "Reversing/Retos Reversing - Parte 4/Plantilla.md",
+    "Reversing/Retos Reversing - Parte 4/02-asm4.md",
+    "Reversing/Retos Reversing - Parte 4/03-Need For Speed.md",
+    "Reversing/Retos Reversing - Parte 4/04-reverse_cipher.md",
+    "Reversing/Retos Reversing - Parte 4/Archivos/need-for-speed",
+    "Reversing/Retos Reversing - Parte 4/Archivos/a.out",
+    "Reversing/Retos Reversing - Parte 4/Archivos/solve.o",
+    "Reversing/Retos Reversing - Parte 4/Archivos/chall.o",
+    "Reversing/Retos Reversing - Parte 4/Archivos/solve.c",
+    "Reversing/Retos Reversing - Parte 4/Archivos/chall.S",
+    "Reversing/Retos Reversing - Parte 4/Archivos/test.S",
+    "Reversing/Retos Reversing - Parte 4/Archivos/test (1).S",
+    "Reversing/Retos Reversing - Parte 4/01-GDB Test Drive.md",
     "Reversing/Retos Reversing - Parte 3/03-asm1.md",
-    "Reversing/Retos Reversing - Parte 3/Archivos/test3Solve.py",
-    "Reversing/Retos Reversing - Parte 3/Archivos/test3.S",
-    "Reversing/Retos Reversing - Parte 3/Archivos/test.S",
     "Reversing/Retos Reversing - Parte 3/02-asm1.md",
     "Reversing/Retos Reversing - Parte 3/01-asm1.md",
-    "Reversing/Retos Reversing - Parte 3/Archivos/test2Solve.py",
-    "Reversing/Retos Reversing - Parte 3/Archivos/test2.S",
-    "Reversing/Retos Reversing - Parte 3/Archivos/test1.S",
-    "Reversing/Retos Reversing - Parte 3/Archivos",
-    "Reversing/Retos Reversing - Parte 3/Files/test.S",
-    "Reversing/Retos Reversing - Parte 3/Files",
     "Reversing/Retos Reversing - Parte 3/Plantilla.md",
     "Reversing/Retos Reversing - Parte 2/04-Picker IV.md",
     "Reversing/Retos Reversing - Parte 2/01-Picker I 1.md",
-    "Reversing/Retos Reversing - Parte 3",
     "Reversing/Retos Reversing - Parte 2/03-Picker III.md",
     "Reversing/Retos Reversing - Parte 2/02-Picker II.md",
     "Reversing/Retos Reversing - Parte 2/01-Picker I.md",
