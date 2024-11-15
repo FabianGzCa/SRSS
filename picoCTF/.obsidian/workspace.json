@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pwn/Retos Binexp - Parte 2/Plantilla.md",
+                "file": "pwn/Retos Binexp - Parte 2/01-buffer overflow 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "01-buffer overflow 1"
             }
           }
         ],
@@ -193,6 +193,13 @@
   },
   "active": "b9314f4622610870",
   "lastOpenFiles": [
+    "pwn/Retos Binexp - Parte 2/02-clutter-overflow.md",
+    "pwn/Retos Binexp - Parte 2/archivos/chall.c",
+    "pwn/Retos Binexp - Parte 2/archivos/chall",
+    "pwn/Retos Binexp - Parte 2/archivos/vuln",
+    "pwn/Retos Binexp - Parte 2/archivos/vuln.c",
+    "pwn/Retos Binexp - Parte 2/archivos",
+    "pwn/Retos Binexp - Parte 2/01-buffer overflow 1.md",
     "pwn/Retos Binexp - Parte 2/Plantilla.md",
     "pwn/Retos Binexp - Parte 2",
     "pwn/Retos Binexp - Parte 1/04-RPS.md",
@@ -202,11 +209,6 @@
     "pwn/Retos Binexp - Parte 1/archivos/flag_leak/game-redacted.c",
     "pwn/Retos Binexp - Parte 1/03-flag leak.md",
     "pwn/Retos Binexp - Parte 1/02-buffer overflow 0.md",
-    "pwn/Retos Binexp - Parte 1/archivos/flag_leak/vuln",
-    "pwn/Retos Binexp - Parte 1/archivos/flag_leak/vuln.c",
-    "pwn/Retos Binexp - Parte 1/archivos/flag_leak",
-    "pwn/Retos Binexp - Parte 1/archivos/vuln.c",
-    "pwn/Retos Binexp - Parte 1/archivos/vuln",
     "pwn/Retos Binexp - Parte 1/01-basic-file-exploit.md",
     "pwn/Retos Binexp - Parte 1/05-Stonks.md",
     "pwn/Retos Binexp - Parte 1/Plantilla.md",
@@ -235,9 +237,6 @@
     "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-hdpi-v4/ic_launcher_round.webp",
     "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-hdpi-v4/ic_launcher.webp",
     "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-mdpi-v4/ic_launcher_round.webp",
-    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-mdpi-v4/ic_launcher.webp",
-    "Reversing/Retos Reversing - Parte 2/Plantilla.md",
-    "Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
-    "Reversing/Retos Reversing - Parte 1/Plantilla.md"
+    "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-mdpi-v4/ic_launcher.webp"
   ]
 }
