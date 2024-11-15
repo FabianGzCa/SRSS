@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "05-Stonks"
             }
+          },
+          {
+            "id": "b9314f4622610870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pwn/Retos Binexp - Parte 2/Plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plantilla"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,8 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6c7a731dbd5728a",
+  "active": "b9314f4622610870",
   "lastOpenFiles": [
+    "pwn/Retos Binexp - Parte 2/Plantilla.md",
+    "pwn/Retos Binexp - Parte 2",
     "pwn/Retos Binexp - Parte 1/04-RPS.md",
     "pwn/Retos Binexp - Parte 1/archivos/stonks/vuln.c",
     "pwn/Retos Binexp - Parte 1/archivos/stonks",
@@ -192,7 +208,6 @@
     "pwn/Retos Binexp - Parte 1/archivos/vuln.c",
     "pwn/Retos Binexp - Parte 1/archivos/vuln",
     "pwn/Retos Binexp - Parte 1/01-basic-file-exploit.md",
-    "pwn/Retos Binexp - Parte 1/archivos/program-redacted.c",
     "pwn/Retos Binexp - Parte 1/05-Stonks.md",
     "pwn/Retos Binexp - Parte 1/Plantilla.md",
     "Reversing/Retos Reversing - Parte 4/Plantilla.md",
