@@ -41,28 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parciales/Parcial-3/Crypto Parte 1/06-No Padding, No Problem.md",
+                "file": "Parciales/Parcial-3/Crypto Parte 2/05-Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-No Padding, No Problem"
+              "title": "05-Vigenere"
             }
           },
           {
             "id": "8571aabfb7a1c3bb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Parciales/Parcial-3/Crypto Parte 2/07-SRA.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "07-SRA"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,27 +205,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9314f4622610870",
+  "active": "8571aabfb7a1c3bb",
   "lastOpenFiles": [
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/solve.py",
-    "Parciales/Parcial-3/Crypto Parte 1/05-New Caesar.md",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/chal.py",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/solve2.py",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/pyvenv.cfg",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/bin/python3.12",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/bin/python3",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/bin/python",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/bin",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/lib/python3.12/site-packages",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/lib/python3.12",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/lib",
+    "Parciales/Parcial-3/Crypto Parte 2/Archivos/venv/include/python3.12",
+    "Parciales/Parcial-3/Crypto Parte 2/06-Play Nice.md",
+    "Parciales/Parcial-3/Crypto Parte 2/07-SRA.md",
+    "Parciales/Parcial-3/Crypto Parte 2/05-Vigenere.md",
+    "Parciales/Parcial-3/Crypto Parte 2/04-substitution2.md",
+    "Parciales/Parcial-3/Crypto Parte 2/Plantilla.md",
+    "Parciales/Parcial-3/Crypto Parte 2/03-substitution1.md",
+    "Parciales/Parcial-3/Crypto Parte 2/02-substitution0.md",
+    "Parciales/Parcial-3/Crypto Parte 2/01-rotation.md",
     "Parciales/Parcial-3/Crypto Parte 1/06-No Padding, No Problem.md",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/decoder.py",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/decript.py",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/new_caesar.py",
+    "Parciales/Parcial-3/Reversing Parte 1/Plantilla.md",
+    "Parciales/Parcial-3/Reversing Parte 2/Plantilla.md",
+    "Parciales/Parcial-3/Crypto Parte 1/05-New Caesar.md",
     "Parciales/Parcial-3/Crypto Parte 1/04-Mr-Worldwide.md",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/message.txt",
     "Parciales/Parcial-3/Crypto Parte 1/03-john_pollard.md",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/cert",
     "Parciales/Parcial-3/Crypto Parte 1/02-Flags.md",
     "Parciales/Parcial-3/Crypto Parte 1/Archivos/flag.png",
     "Parciales/Parcial-3/Crypto Parte 1/01-C3.md",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/file.py",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/out.py",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/decorder.py",
     "Pasted image 20241122153408.png",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/convert.py",
-    "Parciales/Parcial-3/Crypto Parte 1/Archivos/ciphertext",
     "Parciales/Parcial-3/Crypto Parte 1/Plantilla.md",
     "Parciales/Parcial-3/Plantilla.md",
     "Parciales/Parcial-3/Untitled.canvas",
@@ -234,16 +246,6 @@
     "pwn/Retos Binexp - Parte 1/04-RPS.md",
     "pwn/Retos Binexp - Parte 1/03-flag leak.md",
     "pwn/Retos Binexp - Parte 1/02-buffer overflow 0.md",
-    "pwn/Retos Binexp - Parte 1/01-basic-file-exploit.md",
-    "pwn/Retos Binexp - Parte 1/05-Stonks.md",
-    "pwn/Retos Binexp - Parte 1/Plantilla.md",
-    "Reversing/Retos Reversing - Parte 4/Plantilla.md",
-    "Reversing/Retos Reversing - Parte 4/04-reverse_cipher.md",
-    "Reversing/Retos Reversing - Parte 4/02-asm4.md",
-    "Reversing/Retos Reversing - Parte 4/03-Need For Speed.md",
-    "Reversing/Retos Reversing - Parte 4/01-GDB Test Drive.md",
-    "Reversing/Retos Reversing - Parte 3/03-asm1.md",
-    "Reversing/Retos Reversing - Parte 3/02-asm1.md",
     "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xxxhdpi-v4/ic_launcher_round.webp",
     "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xxxhdpi-v4/ic_launcher.webp",
     "Reversing/Retos Reversing - Parte 2/timer/res/mipmap-xxhdpi-v4/ic_launcher_round.webp",

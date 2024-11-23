@@ -1,7 +1,7 @@
 from pwn import *
 import binascii
 
-r = remote('mercury.picoctf.net', 10333)
+r = remote('mercury.picoctf.net', 2671)
 r.recvlines(4)
 
 r.recvuntil(b'n: ')

@@ -21,7 +21,7 @@ Entonces creamos un código de python que lo resuelva:
 from pwn import *
 import binascii
 
-r = remote('mercury.picoctf.net', 10333)
+r = remote('mercury.picoctf.net', 2671)
 r.recvlines(4)
 
 r.recvuntil(b'n: ')
@@ -50,16 +50,16 @@ r.close()
 Y lo ejecutamos:
 ```python
 ❯ python3 solve.py
-[+] Opening connection to mercury.picoctf.net on port 10333: Done
+[+] Opening connection to mercury.picoctf.net on port 2671: Done
 /home/fabiangzca/Documents/Escuela/SRSS/picoCTF/Parciales/Parcial-3/Crypto Parte 1/Archivos/solve.py:17: BytesWarning: Text is not bytes; assuming ASCII, no guarantees. See https://docs.pwntools.com/#bytes
   r.sendlineafter(b'Give me ciphertext to decrypt: ', str(payload))
-Doubled Plain: 580550060391700078946913236734911770139931497702556153513487440893406629034802718534645538074938502890768853279675297196794
-Plain Text Hex: 7069636f4354467b6d347962335f54683073655f6d337335346733735f3472335f646966757272656e745f313737323733357d
-Plain Text: picoCTF{m4yb3_Th0se_m3s54g3s_4r3_difurrent_1772735}
-[*] Closed connection to mercury.picoctf.net port 10333
+Doubled Plain: 580550060391700078946913236734911770139931497702556153513487440893406629034802718534645538074938502890769430290200460554490
+Plain Text Hex: 7069636f4354467b6d347962335f54683073655f6d337335346733735f3472335f646966757272656e745f353831343336387d
+Plain Text: picoCTF{m4yb3_Th0se_m3s54g3s_4r3_difurrent_5814368}
+[*] Closed connection to mercury.picoctf.net port 2671
 ```
 dandonos la respuesta:
-picoCTF{m4yb3_Th0se_m3s54g3s_4r3_difurrent_1772735}
+picoCTF{m4yb3_Th0se_m3s54g3s_4r3_difurrent_5814368}
 ## Notas Adicionales
 
 
